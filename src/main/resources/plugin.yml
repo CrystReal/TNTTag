@@ -1,0 +1,5 @@
+name: TNTTag
+main: com.updg.tnttag.TNTTagPlugin
+version: 1
+depend: [CRAPI]
+commands:
